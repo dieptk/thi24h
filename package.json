@@ -1,0 +1,20 @@
+{
+  "name": "thi24h",
+  "version": "1.0.0",
+  "description": "Thi online",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieptk/thi24h.git"
+  },
+  "author": "dieptk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dieptk/thi24h/issues"
+  },
+  "homepage": "https://github.com/dieptk/thi24h#readme"
+}
